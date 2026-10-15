@@ -12,4 +12,5 @@ BPS:
 65+ Tahun: Tidak Produktif
 
 Hasil Output Program:
+</n>
 <img width="537" height="97" alt="image" src="https://github.com/user-attachments/assets/0e7b2bb3-25c2-4b37-993c-1ee266bf7529" />
